@@ -2,9 +2,9 @@
 
 * ### [Inheritance](https://github.com/pkvarnwal/JavaAndCollection/blob/master/README.md#inheritance)
 
-* ### Polymorphism
-* ### Interface
-* ### Abstract
+* ### [Polymorphism](https://github.com/pkvarnwal/JavaAndCollection/blob/master/README.md#polymorphism)
+* ### [Interface](https://github.com/pkvarnwal/JavaAndCollection/blob/master/README.md#interface)
+* ### [Abstract](https://github.com/pkvarnwal/JavaAndCollection/blob/master/README.md#abstract)
 * ### Interface Implementation
 * ### Nested Interface
 * ### Interface Variable
