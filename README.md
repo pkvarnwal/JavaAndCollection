@@ -1,9 +1,8 @@
-### Important topics on Java.
+# Important topics on Java.
 
 ## Inheritance
 
-# Interface
-
-# Abstract
+### Interface
+### Abstract
 
 
