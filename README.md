@@ -1,8 +1,8 @@
 # Important topics on Java.
 
-* ### [Inheritance](https://github.com/pkvarnwal/JavaAndCollection/blob/master/README.md#inheritance)
+* ### [Inheritance](https://github.com/pkvarnwal/JavaAndCollection#inheritance-1)
 
-* ### [Polymorphism](https://github.com/pkvarnwal/JavaAndCollection/blob/master/README.md#polymorphism)
+* ### [Polymorphism](https://github.com/pkvarnwal/JavaAndCollection#polymorphism-1)
 * ### [Interface](https://github.com/pkvarnwal/JavaAndCollection#interface-1)
 
 * ### [Abstract](https://github.com/pkvarnwal/JavaAndCollection/blob/master/README.md#abstract)
