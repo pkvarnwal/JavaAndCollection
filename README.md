@@ -1,8 +1,13 @@
 # Important topics on Java.
 
-## Inheritance
+* ### Inheritance
 
-### Interface
-### Abstract
-
+* ### Interface
+* ### Abstract
+* ### Interface Implementation
+* ### Nested Interface
+* ### Interface Variable
+* ### Marker Interface
+* ### Spannable Interface
+* ### Interface vs Inheritance
 
