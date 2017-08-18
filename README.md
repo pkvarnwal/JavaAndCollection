@@ -1,6 +1,6 @@
 # Important topics on Java.
 
-* ### Inheritance
+* ### [Inheritance] (https://github.com/pkvarnwal/JavaAndCollection/edit/master/README.md#Inheritance)
 
 * ### Polymorphism
 * ### Interface
