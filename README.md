@@ -3,7 +3,8 @@
 * ### [Inheritance](https://github.com/pkvarnwal/JavaAndCollection/blob/master/README.md#inheritance)
 
 * ### [Polymorphism](https://github.com/pkvarnwal/JavaAndCollection/blob/master/README.md#polymorphism)
-* ### [Interface](https://github.com/pkvarnwal/JavaAndCollection/blob/master/README.md#interface)
+* ### [Interface](https://github.com/pkvarnwal/JavaAndCollection#interface-1)
+
 * ### [Abstract](https://github.com/pkvarnwal/JavaAndCollection/blob/master/README.md#abstract)
 * ### Interface Implementation
 * ### Nested Interface
