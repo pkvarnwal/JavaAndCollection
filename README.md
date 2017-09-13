@@ -14,7 +14,7 @@
 
 * ### Inheritance: 
 This is one way of achieving both polymorphism and code reuse at the same time.
-Inhritance is when a `class` derives from an existing `class`.
+Inheritance is when a `class` derives from an existing `class`.
 
 Java does not support cyclic `Inheritance`.
 Ex: class A extends class A
