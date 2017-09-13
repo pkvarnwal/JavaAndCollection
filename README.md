@@ -1,9 +1,10 @@
 # Important topics on Java.
 
-* ### [Inheritance](https://github.com/pkvarnwal/JavaAndCollection/blob/master/README.md#inheritance)
+* ### [Inheritance](https://github.com/pkvarnwal/JavaAndCollection#inheritance-1)
 
-* ### [Polymorphism](https://github.com/pkvarnwal/JavaAndCollection/blob/master/README.md#polymorphism)
-* ### [Interface](https://github.com/pkvarnwal/JavaAndCollection/blob/master/README.md#interface)
+* ### [Polymorphism](https://github.com/pkvarnwal/JavaAndCollection#polymorphism-1)
+* ### [Interface](https://github.com/pkvarnwal/JavaAndCollection#interface-1)
+
 * ### [Abstract](https://github.com/pkvarnwal/JavaAndCollection/blob/master/README.md#abstract)
 * ### Interface Implementation
 * ### Nested Interface
