@@ -12,6 +12,7 @@
 * ### Marker Interface
 * ### Spannable Interface
 * ### Interface vs Inheritance
+* ### Functional Interface
 
 * ### Inheritance: 
 This is one way of achieving both polymorphism and code reuse at the same time.
@@ -64,3 +65,10 @@ Abstract -> final, static, synchronized, native, strictfp.
 * Inside interface we can't declare intance and static blocks otherwise we will get compile time error.
 * Inside interface we can't declare constructors.
 * Interface is able to hold implementation of class of object also.
+
+
+* ### Functional Interface:
+
+* A functional interface has exactly one abstract method.
+* A Comparable interface with a single method 'compareTo' is used for comparison purpose. Java8 has defined a lot of functional interaces 
+  to be used extensively in lambda expressions.
