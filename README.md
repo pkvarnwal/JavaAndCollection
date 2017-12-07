@@ -84,3 +84,5 @@ Abstract -> final, static, synchronized, native, strictfp.
   parameter expression2(if applicable).
   An Example: assert list != null && list.size() > 0 : "list variable is null or empty";
   Object value = list.get(0);
+* Assertions are usually used as a debugging aid. They should not be used instead of validating arguments to public methods, or in place of a more      precise runtime error exception.
+* Assertions are enabled with the Java -ea or -enableassertions runtime option. See your Java environment documentation for additional options for      controlling assertions.
