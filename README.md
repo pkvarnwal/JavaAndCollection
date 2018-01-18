@@ -86,3 +86,8 @@ Abstract -> final, static, synchronized, native, strictfp.
   Object value = list.get(0);
 * Assertions are usually used as a debugging aid. They should not be used instead of validating arguments to public methods, or in place of a more      precise runtime error exception.
 * Assertions are enabled with the Java -ea or -enableassertions runtime option. See your Java environment documentation for additional options for      controlling assertions.
+* ### Difference between UI Thread and Worker Thread:
+
+* The Ui thread is the thread that makes any changes required for the ui.
+* A worker thread is just another thread where you can do processing that you dont want to interupt any changes happening on the ui thread.
+* If you are doing large amounts of processing on the ui thread while a change to the ui is happening the ui will freeze until what ever you have running complete.
